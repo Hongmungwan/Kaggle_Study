@@ -6,3 +6,4 @@
 * <a href = "https://root-decimal-c5d.notion.site/Recommender-System-KR-5b773a06e99145e6855bae391c94dc44"> RS-KR </a>
 * <a href = "https://convex-optimization-for-all.github.io/"> 모두를 위한 컨벡스 최적화 </a> 
 * <a href = "https://spinningup.openai.com/en/latest/"> Welcome to Spinning Up in Deep RL! </a>
+* <a href = "https://blog.naver.com/PostView.nhn?blogId=laonple&logNo=221201915691&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView"> Computer Vision task </a>
