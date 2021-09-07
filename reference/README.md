@@ -7,3 +7,4 @@
 * <a href = "https://convex-optimization-for-all.github.io/"> 모두를 위한 컨벡스 최적화 </a> 
 * <a href = "https://spinningup.openai.com/en/latest/"> Welcome to Spinning Up in Deep RL! </a>
 * <a href = "https://blog.naver.com/PostView.nhn?blogId=laonple&logNo=221201915691&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView"> Computer Vision task </a>
+* <a href = "https://github.com/ml-tooling/best-of-ml-python"> Best-of Machine Learning with Python </a>
