@@ -9,3 +9,4 @@
 * <a href = "https://blog.naver.com/PostView.nhn?blogId=laonple&logNo=221201915691&categoryNo=22&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView"> Computer Vision task </a>
 * <a href = "https://github.com/ml-tooling/best-of-ml-python"> Best-of Machine Learning with Python </a>
 * <a href = "https://github.com/thunlp/GNNPapers"> GNN Papers </a>
+* <a href = "https://hoya012.github.io/"> 최신 논문 리뷰어 blog </a>
