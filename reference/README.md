@@ -10,3 +10,4 @@
 * <a href = "https://github.com/ml-tooling/best-of-ml-python"> Best-of Machine Learning with Python </a>
 * <a href = "https://github.com/thunlp/GNNPapers"> GNN Papers </a>
 * <a href = "https://hoya012.github.io/"> 최신 논문 리뷰어 blog </a>
+* <a href = "https://github.com/choco9966/Kaggle"> Team EDA blog </a>
