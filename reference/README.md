@@ -11,3 +11,4 @@
 * <a href = "https://github.com/thunlp/GNNPapers"> GNN Papers </a>
 * <a href = "https://hoya012.github.io/"> 최신 논문 리뷰어 blog </a>
 * <a href = "https://github.com/choco9966/Kaggle"> Team EDA blog </a>
+* <a href = "https://analyticsindiamag.com/hands-on-guide-to-pytorch-geometric-with-python-code/"> Hands-On Guide to PyTorch Geometric (With Python Code) </a>
