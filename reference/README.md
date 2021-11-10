@@ -13,3 +13,4 @@
 * <a href = "https://github.com/choco9966/Kaggle"> Team EDA blog </a>
 * <a href = "https://analyticsindiamag.com/hands-on-guide-to-pytorch-geometric-with-python-code/"> Hands-On Guide to PyTorch Geometric (With Python Code) </a>
 * <a href = "https://github.com/snap-stanford/GraphGym"> GraphGym </a>
+* <a href = "https://www.youtube.com/watch?v=cvctS4xWSaU&list=PL_iJu012NOxehE8fdF9me4TLfbdv3ZW8g"> [강화 학습] 1-1강. Reinforcement learning 인트로 </a>
