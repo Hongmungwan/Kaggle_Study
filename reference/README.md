@@ -15,3 +15,4 @@
 * <a href = "https://github.com/snap-stanford/GraphGym"> GraphGym </a>
 * <a href = "https://www.youtube.com/watch?v=cvctS4xWSaU&list=PL_iJu012NOxehE8fdF9me4TLfbdv3ZW8g"> [강화 학습] 1-1강. Reinforcement learning 인트로 </a>
 * <a href = "https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6"> Top2Vec </a>
+* <a href = "https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems"> GNN - Gecommender System Paper </a>
