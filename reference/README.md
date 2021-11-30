@@ -9,6 +9,7 @@
 #### + [ GNN ] 
 * <a href = "https://github.com/thunlp/GNNPapers"> GNN Papers </a>
 * <a href = "https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems"> GNN - Gecommender System Paper </a>
+* <a href = "https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html"> Tensorflow GNN reperence </a>
 ---
 
 #### + [ RL ]
