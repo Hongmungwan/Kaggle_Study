@@ -26,6 +26,7 @@
 ---
 
 #### + [ Etc. ]
+* <a href = "https://github.com/ndb796/Deep-Learning-Paper-Review-and-Practice" > Deep Learning Paper Review and Practice </a>
 * <a href = "https://github.com/eugeneyan/applied-ml"> Machine Learning applied paper </a>
 * <a href = "https://convex-optimization-for-all.github.io/"> 모두를 위한 컨벡스 최적화 </a> 
 * <a href = "https://github.com/ml-tooling/best-of-ml-python"> Best-of Machine Learning with Python </a>
