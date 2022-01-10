@@ -1,5 +1,6 @@
 ### [ kaggle winner solution ]
 * <a href = "http://ndres.me/kaggle-past-solutions/"> Kaggle Past Solutions </a>
+* <a href = "https://github.com/zzsza/Kaggle-knowhow">  Kaggle 자료 모음 </a>
 ---
 ### [ reference page ]
 #### + [ NLP ] 
